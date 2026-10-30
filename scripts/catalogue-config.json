@@ -70,6 +70,10 @@
       "title": "Autonomous Invoice Orchestration Agent with GHCP Harness",
       "icon": "🧾"
     },
+    "Agentic-Business-Process-Automation-Agent": {
+      "title": "Agentic Business Process Automation Agent",
+      "icon": "🔄"
+    },
     "Calendar-Request-Approval-Agent": {
       "title": "Calendar Request Approval Agent",
       "icon": "📅"

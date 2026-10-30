@@ -280,6 +280,23 @@ const SCENARIOS = [
     "type": "Accounts Payable / Invoice Approval"
   },
   {
+    "id": "Agentic-Business-Process-Automation-Agent",
+    "title": "Agentic Business Process Automation Agent",
+    "icon": "🔄",
+    "desc": "Reusable event-driven case runtime designed for waits beyond 30 days, a custom HITL console and task APIs for functional/regional teams and role-based allocation, process-agnostic monitoring, and Forge-assisted adaptation for claims, contracts, loans, deals, tax, and RFQs. Order Processing reference; tenant and elapsed-time validation required.",
+    "tech": [
+      "Microsoft Copilot Studio",
+      "GitHub Copilot harness",
+      "Workflows",
+      "Dataverse",
+      "Power Apps code apps",
+      "Microsoft Teams",
+      "Outlook"
+    ],
+    "status": "Available",
+    "type": "Cross-Domain Operations / Long-Running Document-Based Processes"
+  },
+  {
     "id": "Calendar-Request-Approval-Agent",
     "title": "Calendar Request Approval Agent",
     "icon": "📅",
