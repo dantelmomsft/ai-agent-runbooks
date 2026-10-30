@@ -78,6 +78,7 @@ class SearchIndexTests(unittest.TestCase):
             ("scenarios", scenarios, (
                 "Compliance-Self-Inspection-Agent",
                 "Contract-Review-GitHub-Copilot-Harness-Agent",
+                "Agentic-Business-Process-Automation-Agent",
                 "Decision-Maker-Cowork-Agent",
                 "Force-Multiplier-Cowork-Agent",
                 "Quota-Carrier-Cowork-Agent",
